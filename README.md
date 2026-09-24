@@ -22,7 +22,7 @@ The focus of the videos is on the important AI/ML concepts, code logic, theory, 
 | 2 | Introduction to Python for Machine Learning | _Notebook link to be added_ | 
 | 3 | NumPy Foundations for Deep Learning | https://www.youtube.com/watch?v=SzQtSSW4erM |
 | 4 | Pandas Zero to Hero | _Notebook link to be added_ |
-| 5 | Linear Algebra for Deep Learning | _Notebook link to be added_ |
+| 5 | Linear Algebra for Deep Learning | https://youtu.be/k7DN9h3stIU |
 | 6 | Foundations 2 – Linear Algebra | _Notebook link to be added_ | 
 | 7 | Probability Fundamentals for Deep Learning | _Notebook link to be added_ |
 | 8 | Statistics for Deep Learning | _Notebook link to be added_ |
