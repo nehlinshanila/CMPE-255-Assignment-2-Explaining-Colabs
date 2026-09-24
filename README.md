@@ -16,19 +16,18 @@ The focus of the videos is on the important AI/ML concepts, code logic, theory, 
 
 ## Assignment Videos and Executed Colabs
 
-| # | Topic | Executed Colab | Video |
-|---|---|---|---|
-| 1 | Neural Network Playground | Not applicable | _Video link to be added_ |
-| 2 | Introduction to Python for Machine Learning | _Notebook link to be added_ | _Video link to be added_ |
-| 3 | NumPy Foundations for Deep Learning | _Notebook link to be added_ | _Video link to be added_ |
-| 4 | Pandas Zero to Hero | _Notebook link to be added_ | _Video link to be added_ |
-| 5 | Linear Algebra for Deep Learning | _Notebook link to be added_ | _Video link to be added_ |
-| 6 | Foundations 2 – Linear Algebra | _Notebook link to be added_ | _Video link to be added_ |
-| 7 | Probability Fundamentals for Deep Learning | _Notebook link to be added_ | _Video link to be added_ |
-| 8 | Statistics for Deep Learning | _Notebook link to be added_ | _Video link to be added_ |
-| 9 | Calculus for Deep Learning | _Notebook link to be added_ | _Video link to be added_ |
+| # | Topic | Video |
+|---|---|---|
+| 1 | Neural Network Playground | _Video link to be added_ |
+| 2 | Introduction to Python for Machine Learning | _Notebook link to be added_ | 
+| 3 | NumPy Foundations for Deep Learning | https://www.youtube.com/watch?v=SzQtSSW4erM |
+| 4 | Pandas Zero to Hero | _Notebook link to be added_ |
+| 5 | Linear Algebra for Deep Learning | _Notebook link to be added_ |
+| 6 | Foundations 2 – Linear Algebra | _Notebook link to be added_ | 
+| 7 | Probability Fundamentals for Deep Learning | _Notebook link to be added_ |
+| 8 | Statistics for Deep Learning | _Notebook link to be added_ |
+| 9 | Calculus for Deep Learning | _Notebook link to be added_ |
 
-> More notebooks and video links will be added as they are completed.
 
 ---
 
