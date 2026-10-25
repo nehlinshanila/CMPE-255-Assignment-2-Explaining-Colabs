@@ -18,7 +18,7 @@ The focus of the videos is on the important AI/ML concepts, code logic, theory, 
 
 | # | Topic | Video |
 |---|---|---|
-| 1 | Neural Network Playground | _Video link to be added_ |
+| 1 | Neural Network Playground | https://youtu.be/WjMO2UVuWQI |
 | 2 | Introduction to Python for Machine Learning | _Notebook link to be added_ | 
 | 3 | NumPy Foundations for Deep Learning | https://www.youtube.com/watch?v=SzQtSSW4erM |
 | 4 | Pandas Zero to Hero | _Notebook link to be added_ |
