@@ -19,14 +19,22 @@ The focus of the videos is on the important AI/ML concepts, code logic, theory, 
 | # | Topic | Video |
 |---|---|---|
 | 1 | Neural Network Playground | https://youtu.be/WjMO2UVuWQI |
-| 2 | Introduction to Python for Machine Learning | _Notebook link to be added_ | 
+| 2 | Introduction to Python for Machine Learning | https://youtu.be/k7DN9h3stIU | 
 | 3 | NumPy Foundations for Deep Learning | https://www.youtube.com/watch?v=SzQtSSW4erM |
-| 4 | Pandas Zero to Hero | _Notebook link to be added_ |
-| 5 | Linear Algebra for Deep Learning | https://youtu.be/k7DN9h3stIU |
-| 6 | Foundations 2 – Linear Algebra | https://youtu.be/jcq6S5fw8dE | 
-| 7 | Final Probability & Fundamentals for Deep Learning | https://youtu.be/sy4WuxTcL3o |
-| 8 | Statistics for Deep Learning | https://youtu.be/MW4xlTY4IpI |
-| 9 | Calculus for Deep Learning | _Notebook link to be added_ |
+| 4 | Pandas Zero to Hero | https://youtu.be/k7DN9h3stIU |
+| 5 | Introduction to matplotlib | https://youtu.be/k7DN9h3stIU |
+| 6 | Linear Algebra for Deep Learning 1 | https://youtu.be/k7DN9h3stIU |
+| 7 | Foundations 2 – Linear Algebra 2 | https://youtu.be/jcq6S5fw8dE | 
+| 8 | Linear Algebra: the MODEL Box 3 | https://youtu.be/jcq6S5fw8dE | 
+| 9 | Final Probability & Fundamentals for Deep Learning | https://youtu.be/sy4WuxTcL3o |
+| 10 | Statistics for Deep Learning | https://youtu.be/MW4xlTY4IpI |
+| 11 | data science related prob and stats 1 | https://youtu.be/sy4WuxTcL3o |
+| 12 | data science related prob and stats 2 | https://youtu.be/sy4WuxTcL3o |
+| 13 | data science related prob and stats 3 | https://youtu.be/sy4WuxTcL3o |
+| 14 | Intro to Calculus  colabs | https://youtu.be/sy4WuxTcL3o |
+| 15 | Intro to Calculus  colabs | https://youtu.be/sy4WuxTcL3o |
+| 16 | Intro to Calculus  colabs | https://youtu.be/sy4WuxTcL3o |
+| 17 | Intro to Foundations of learning | https://youtu.be/k7DN9h3stIU |
 
 
 ---
